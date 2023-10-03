@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
-  <img height = "180cm" src = "https://github-readme-stats.vercel.app/api?username=BrunoViola&https://github.com/anuraghazra/github-readme-stats&theme=dracula"/>
-  <img height = "180cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoViola&layout=compact&theme=dracula"/>
+  <img height = "170cm" src = "https://github-readme-stats.vercel.app/api?username=BrunoViola&https://github.com/anuraghazra/github-readme-stats&theme=dracula"/>
+  <img height = "170cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoViola&layout=compact&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
