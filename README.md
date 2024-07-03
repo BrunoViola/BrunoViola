@@ -6,7 +6,6 @@
 ##
 
 <div>
-  <img height = "160cm" src = "https://github-readme-stats.vercel.app/api?username=BrunoViola&theme=transparent&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height = "160cm"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoViola&layout=compact&theme=transparent&langs_count=16"/>
 </div>
 
