@@ -5,11 +5,11 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrunoViola&bg_color=0d1117&color=5ee8df&line=0068fa&point=4df2fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ##
 
-<div>
+<div align="center">
   <img height = "160cm"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoViola&layout=compact&theme=transparent&langs_count=16"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Bruno-C" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="center" alt="Bruno-Python" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
   <img align="center" alt="Bruno-Java" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
