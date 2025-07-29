@@ -27,11 +27,4 @@
     <!--<a href="https://brunoviola.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)" target=_blank"></a>-->
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BrunoViola}/count.svg" /></p> 
-<br>
-</div>
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0068FA&height=120&section=footer"/>
