@@ -13,7 +13,8 @@
   <img align="center" alt="Bruno-SQL" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
   <img align="center" alt="Bruno-Python" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
   <img align="center" alt="Bruno-PHP" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> 
-  <img align="center" alt="Bruno-Laravel" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/> 
+  <img align="center" alt="Bruno-Laravel" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
+  <img align="center" alt="Bruno-TailwindCSS" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
 
 ##
