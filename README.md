@@ -2,12 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0068FA&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bruno+Viola;I'm+from+Brazil;I+am+studying+Computer+Science;Be+Welcome!+:%29;+This+is+my+account+for+personal+projects+and+studies)](https://git.io/typing-svg)
 
-<div align="center">
-  <img height = "160cm"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoViola&layout=compact&theme=transparent&langs_count=16"/>
-</div>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BrunoViola&theme=transparent&locale=pt" />
+  <img src="https://github-readme-streak-stats-nu-opal.vercel.app?user=BrunoViola&theme=transparent" />
 </p>
 
 <div align="center" style="display: inline_block"><br>
