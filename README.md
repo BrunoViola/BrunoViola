@@ -6,13 +6,13 @@
   <img src="https://github-readme-streak-stats-nu-opal.vercel.app?user=BrunoViola&theme=transparent" />
 </p>
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Bruno-PHP" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> 
-  <img align="center" alt="Bruno-Laravel" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
-  <img align="center" alt="Bruno-TailwindCSS" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="center" alt="Bruno-C" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="center" alt="Bruno-SQL" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
-  <img align="center" alt="Bruno-Python" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
+<div align="center"><br>
+  <img align="center" alt="Bruno-PHP" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> 
+  <img align="center" alt="Bruno-Laravel" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
+  <img align="center" alt="Bruno-TailwindCSS" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" alt="Bruno-C" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="center" alt="Bruno-SQL" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
+  <img align="center" alt="Bruno-Python" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
 </div>
 
 ##
