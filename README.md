@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0068FA&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bruno+Viola;I'm+from+Brazil;I+am+studying+Computer+Science;Be+Welcome!+:%29;+This+is+my+account+for+personal+projects+and+studies)](https://git.io/typing-svg)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats-nu-opal.vercel.app?user=BrunoViola&theme=transparent" />
-</p>
+</p> -->
 
 <div align="center"><br>
   <img align="center" alt="Bruno-PHP" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> 
