@@ -13,6 +13,7 @@
   <img align="center" alt="Bruno-C" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="center" alt="Bruno-SQL" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
   <img align="center" alt="Bruno-Python" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
+  <img align="center" alt="Bruno-Kotlin" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/> 
 </div>
 
 ##
